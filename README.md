@@ -1,12 +1,3 @@
----
-title: Launchpad AI
-emoji: 🚀
-colorFrom: indigo
-colorTo: purple
-sdk: docker
-app_port: 7860
-pinned: false
----
 
 # Launchpad AI — Project Recommendation & Blueprint Generator
 
@@ -90,16 +81,6 @@ Premium Glassmorphism Streamlit UI
    streamlit run app.py
    ```
 
----
-
-## 🐳 Docker Deployment
-
-The application includes configuration ready for Docker and Hugging Face Spaces.
-
-1. **Build the image**:
-   ```bash
-   docker build -t launchpad-ai .
-   ```
 
 2. **Run the container**:
    ```bash
