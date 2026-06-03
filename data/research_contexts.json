@@ -1,0 +1,37 @@
+{
+  "cybersecurity": [
+    "phishing detection systems using natural language processing",
+    "network anomaly detection using machine learning and packet capture logs",
+    "browser threat monitoring extensions and malicious script detection",
+    "zero-trust authentication microservices with multi-factor verification",
+    "vulnerability scanning engines for containerized web applications"
+  ],
+  "healthcare": [
+    "patient vital sign monitoring using IoT sensors and real-time alerts",
+    "disease prediction models based on clinical text summaries",
+    "medical image classification using convolutional neural networks",
+    "secure patient record sharing systems using local cryptography",
+    "mental health chatbot providing cognitive behavioral exercises"
+  ],
+  "agriculture": [
+    "crop disease detection using computer vision on leaf imagery",
+    "smart irrigation systems using soil moisture sensors and weather APIs",
+    "crop yield prediction models based on historical weather and soil data",
+    "automated greenhouse monitoring with microcontrollers",
+    "livestock health monitoring using thermal imaging or motion trackers"
+  ],
+  "finance": [
+    "algorithmic trading strategies with stock sentiment analysis",
+    "fraud detection engines parsing transactions for anomalous patterns",
+    "personal budgeting assistants using LLMs to categorize expenses",
+    "decentralized payment validation microservices",
+    "automated credit risk scoring models"
+  ],
+  "education": [
+    "intelligent tutoring systems customizing quizzes based on performance",
+    "automated grading assistants for programming assignments",
+    "AI flashcard generators summarizing textbook chapters",
+    "student engagement analysis systems using web-cam facial expressions",
+    "collaborative study platforms with real-time peer recommendation"
+  ]
+}

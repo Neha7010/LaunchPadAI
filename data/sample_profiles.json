@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Alex Chen",
+    "major": "Computer Science",
+    "skills": ["Python", "PyTorch", "SQL", "Git"],
+    "interests": ["Machine Learning", "Natural Language Processing", "Finance"],
+    "career_goal": "AI Engineer"
+  },
+  {
+    "name": "Sarah Jenkins",
+    "major": "Electrical Engineering",
+    "skills": ["C++", "Python", "Raspberry Pi", "Arduino"],
+    "interests": ["Smart Home", "Internet of Things", "Agriculture"],
+    "career_goal": "Embedded Systems Developer"
+  },
+  {
+    "name": "Liam Kowalski",
+    "major": "Software Engineering",
+    "skills": ["JavaScript", "React", "Node.js", "MongoDB", "CSS"],
+    "interests": ["E-commerce", "Web Security", "Healthcare"],
+    "career_goal": "Full Stack Developer"
+  }
+]
